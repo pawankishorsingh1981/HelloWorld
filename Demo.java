@@ -3,6 +3,6 @@ public class Demo{
     System.out.println("Hello World");
     System.out.println("Second commit");
     System.out.println("New branch for multithreading");
-    System.out.println("New branch for lambda expressions");
+    System.out.println("lambda expressions changes complete");
   }
 }
